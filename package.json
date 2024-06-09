@@ -1,0 +1,28 @@
+{
+  "name": "github-auth-library",
+  "version": "1.0.2",
+  "description": "A Node.js SDK for GitHub OAuth and User APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekhardtu/github-auth-library.git"
+  },
+  "keywords": [
+    "github",
+    "sdk",
+    "oauth",
+    "api"
+  ],
+  "author": "Hari Shekhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shekhardtu/github-auth-library/issues"
+  },
+  "homepage": "https://github.com/shekhardtu/github-auth-library#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
