@@ -1,6 +1,6 @@
 {
   "name": "github-auth-library",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Node.js SDK for GitHub OAuth and User APIs",
   "main": "index.js",
   "scripts": {

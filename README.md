@@ -122,3 +122,12 @@ app.listen(PORT, () => {
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+### Resources
+
+- **Github Auth Library** [Github-Auth-Library on NPM](https://www.npmjs.com/package/github-auth-library)
+- **Github Auth Library** [Github-Auth-Library on Github](https://github.com/shekhardtu/github-auth-library)
+- **GitHub Repository:** [OAuthify on GitHub](https://github.com/shekhardtu/oauthify)
+- **NPM Package:** [OAuthify on NPM](https://www.npmjs.com/package/oauthify)
+- **Google OAuth Documentation:** [Google Identity Platform](https://developers.google.com/identity/protocols/oauth2)
+- **GitHub OAuth Documentation:** [GitHub OAuth Apps](https://docs.github.com/en/developers/apps/building-oauth-apps)
